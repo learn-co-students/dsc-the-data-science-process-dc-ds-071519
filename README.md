@@ -61,7 +61,7 @@ Data cleaning and wrangling is usually the most time consuming stage within the 
 
 Data cleaning stage require development of a strategy on how to deal with these issues. Such a strategy may highly vary between different analysis experiments according to the nature of analytical question. 
 
-<img src='clean.png', width = 600>
+<img src='clean.png' width = 600>
 
 ### Data Exploration
 
@@ -72,14 +72,14 @@ Data exploration or Exploratory Data Analysis is the stage that follows data cle
 * Plotting histograms, scatter plots, distribution curves to identify trends in data
 * Other interactive visualisation with filtering to focus on a specific segment of data 
 
-<img src='eda.png', width= 600>
+<img src='eda.png' width= 600>
 
 
 ### Feature Engineering
 
 A "Feature" is a measurable attribute of phenomenon being observed. Based on the nature of analystical question asked in the first step, a data scientist may have to engineer additional features not found in the original dataset. Feature engineering is the process of using expert knowledge to transform raw data into meaningful features that directly address the problem you are trying to solve i.e. creating a BMI (Body Mass Index) from the weights and heights of individuals in the dataset. This stage will directly influence the accuracy of the predictive model you construct in the next stage. 
 
-<img src='feat.png', width = 600>
+<img src='feat.png' width = 600>
 
 ### Predictive Modelling
 
@@ -91,7 +91,7 @@ Modelling is the stage where you use mathematical and/or statistical approaches 
 
 Data Visualisation is a multidisciplinary domain in itself and borrows ideas from communication theory, psychology, statistics After deriving the required results from a statistical model, visualisations are normally used to summarise and present the findings of analysis process in a form which is easily understandable by non-technical decision makers. Data visualisation could be thought of as an evolution of visual communication techniques as it deals with "VISUAL" representation of data. A number of different data visualisation techniques ranging from bar graphs, line graphs, scatter plots to alluvial diagrams, spatio-temporal visualisations etc. 
 
-<img src='viz.png', width=600>
+<img src='viz.png' width=600>
 
 ### Conclusion and Summary
 
