@@ -46,7 +46,7 @@ Data mining is a process of identifying and collecting data of interest from dif
 * How do I sample from this data ?
 * are their any privacy/ legal issues that I must consider prior to data usage ?
 
-<img src='data-collection.png', width = 500>
+<img src='datacollection.png', width = 500>
 
 ### Data Cleaning
 
