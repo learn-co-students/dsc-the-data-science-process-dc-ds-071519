@@ -3,7 +3,7 @@
 
 ### Introduction
 
-Just as it's important to understand the kinds of problems that can be solved by data science, it's also important to have a sense of the process used to conduct data science. In this lesson we'll outline the lifecycle of a typical data science project - from business understabnding through data visualization.
+Just as it's important to understand the kinds of problems that can be solved by data science, it's also important to have a sense of the process used to conduct data science. In this lesson we'll outline the lifecycle of a typical data science project - from business understanding through data visualization.
 
 ## Objectives
 You will be able to:
@@ -21,15 +21,15 @@ In the following section, we shall go through each of these stages and see what 
 
 Before trying to solve a data related problem, it is important that a data scientist/analyst has a clear understanding of the problem domain. The questions generally asked at this stage might include:
 
-* How much or how many? e.g. Identifying number of new customers likely to join your company in next quarter. (Regression analysis)
+* How much or how many? E.g. Identifying number of new customers likely to join your company in next quarter. (Regression analysis)
 
-* Which category? e.g. Assigning a document to a given category for a document management system. (Classification analysis)
+* Which category? E.g. Assigning a document to a given category for a document management system. (Classification analysis)
 
-* Which group? e.g. Creating a number of a groups (segments) of your customers based on their monetary value. (Clustering)
+* Which group? E.g. Creating a number of a groups (segments) of your customers based on their monetary value. (Clustering)
 
-* Is this weird? e.g. Detecting suspicious activities of a customers by a credit card company to identify potential fraud. (Anomaly detection)
+* Is this weird? E.g. Detecting suspicious activities of a customers by a credit card company to identify potential fraud. (Anomaly detection)
 
-* Which option should be taken? e.g. Recommending new products (e.g. movies/books/music by Amazon) to exisating customers (Recommendation systems)
+* Which option should be taken? E.g. Recommending new products (such as movies, books or music) to existing customers (Recommendation systems)
 
 <img src='domain.gif'>
 
