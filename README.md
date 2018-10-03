@@ -19,7 +19,7 @@ In the following section, we shall go through each of these stages and see what 
 
 ### Business Understanding / Domain Knowledge
 
-Before trying to solve a data related problem, it is important that a data scientist/analyst has a clear understanding of the problem domain. The questions generally asked at this stage might include:
+Before trying to solve a data related problem, it is important that a data scientist/analyst has a clear understanding of the problem domain and the kinds of question(s) that need to be answered by their analysis. Some of the questions that the data scientist might be asked to answer could include:
 
 * How much or how many? E.g. Identifying number of new customers likely to join your company in next quarter. (Regression analysis)
 
@@ -33,9 +33,9 @@ Before trying to solve a data related problem, it is important that a data scien
 
 <img src='domain.gif'>
 
-### Data Collection
+### Data Mining
 
-After asking the analytical question and identifying objectives for your analysis, the next stage of analysis is to identify and gather the required data. 
+After agreeing the analytical question(s), identifying the objective for your analysis, the next stage of analysis is to identify and gather the required data. 
 
 Data mining is a process of identifying and collecting data of interest from different sources - databases, text files, APIs, the Internet and even printed documents. Some of the questions that you may ask yourself at this stage are:
 
@@ -43,7 +43,7 @@ Data mining is a process of identifying and collecting data of interest from dif
 * Where can I find this data ?
 * How can I obtain the data from data source ?
 * How do I sample from this data ?
-* are their any privacy/ legal issues that I must consider prior to data usage ?
+* Are their any privacy/ legal issues that I must consider prior to data usage ?
 
 <img src='data-collection.png'>
 
@@ -67,8 +67,8 @@ The data cleaning stage requires the development of a strategy on how to deal wi
 Data exploration or Exploratory Data Analysis is the stage that follows data cleaning. Exploratory analysis help highlight the patterns, relations, variance and bias of available data. Exploratory analysis may involve following activities:
 
 * Selecting a subset of a bigger dataset for exploration
-* Calculating basic statistics i.e. mean, median and mode etc.
-* Plotting histograms, scatter plots, distribution curves to identify trends in data
+* Calculating basic descriptive statistics such as the mean, the median and the mode
+* Creating a range of plots including histograms, scatter plots and distribution curves to identify trends in the data
 * Other interactive visualisation with filtering to focus on a specific segment of data 
 
 <img src='eda.png'>
@@ -76,13 +76,13 @@ Data exploration or Exploratory Data Analysis is the stage that follows data cle
 
 ### Feature Engineering
 
-A "Feature" is a measurable attribute of phenomenon being observed. Based on the nature of analystical question asked in the first step, a data scientist may have to engineer additional features not found in the original dataset. Feature engineering is the process of using expert knowledge to transform raw data into meaningful features that directly address the problem you are trying to solve. For example, taking weight and height to calculate Body Mass Index for the individuals in the dataset. This stage will substantially influence the accuracy of the predictive model you construct in the next stage. 
+A "Feature" is a measurable attribute of phenomenon being observed - the number of bedrooms in a house or the weight of a vehicle. Based on the nature of analystical question asked in the first step, a data scientist may have to engineer additional features not found in the original dataset. Feature engineering is the process of using expert knowledge to transform raw data into meaningful features that directly address the problem you are trying to solve. For example, taking weight and height to calculate Body Mass Index for the individuals in the dataset. This stage will substantially influence the accuracy of the predictive model you construct in the next stage. 
 
 <img src='feat.png'>
 
 ### Predictive Modelling
 
-Modelling is the stage where you use mathematical and/or statistical approaches to answer your analytical question. Predictive Modelling refers to the process of using probabalistic statistical methods to "Predict" the outcome of an event. For example, based on employee data, an organisation can develop a predictive model to identify employee attrition rate in order to develop better retention strategies.
+Modelling is the stage where you use mathematical and/or statistical approaches to answer your analytical question. Predictive Modelling refers to the process of using probabalistic statistical methods to try to predict the outcome of an event. For example, based on employee data, an organisation can develop a predictive model to identify employee attrition rate in order to develop better retention strategies.
 
 Choosing the "right" model is often a challenging decision as there is never a single right answer. Selecting a model involves balancing the accuracy and the computational cost of the analysis process. For example, some recent approaches in predictive modelling such as deep learning have been shown to offer vastly improved accuracy of results, but with a very high computational cost.
 
@@ -98,6 +98,5 @@ Data visualisation could be thought of as an evolution of visual communication t
 
 ### Summary
 
-In this lesson, we looked at the data science process and different activities that data scientists are engaged with while doing data analysis. 
-
+In this lesson, we looked at the end to end data science process to give a sense of the activities that data scientists engaged with.
 
