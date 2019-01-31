@@ -37,15 +37,15 @@ e.g. Classifying business documents into a number of categories e.g. legal/sales
 
 **Clustering Analysis:** (Which group?) 
 
-Creating a number of a groups (segments) of your customers based on their monetary value, in order to apply differentiated marketing strategies. 
+e.g. Creating a number of a groups (segments) of your customers based on their monetary value, in order to apply differentiated marketing strategies. 
 
 **Anomaly Detection:** (Is this normal?) 
 
-Detecting suspicious activities of customers by a credit card company to identify potential fraud. 
+e.g. Detecting suspicious activities of customers by a credit card company to identify potential fraud. 
 
 **Recommendation Systems:** (Which option should be taken?) 
 
-Recommending new products (such as movies, books or music) to existing customers based on product similarity or user similarity. 
+e.g. Recommending new products (such as movies, books or music) to existing customers based on product similarity or user similarity. 
 
 This first stage helps us identify the key objectives of our analysis. Remember that asking the right question is considered more of an art than a science, and hence needs lots of analytical experience. After the successful completion of this stage, we will have all of the information and context required to solve a given problem.
 
