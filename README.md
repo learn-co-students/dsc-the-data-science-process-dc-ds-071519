@@ -94,7 +94,7 @@ After deriving the required results from a statistical model, visualizations are
 
 Data visualization could be thought of as an evolution of visual communication techniques as it deals with the visual representation of data. There are a wide range of different data visualization techniques, from bar graphs, line graphs and scatter plots to alluvial diagrams and spatiotemporal visualizations, each of which will work better for presenting certain types of information.
 
-<img src='images/viz.png' width="650">
+<img src='images/image_viz.jpg' width="600">
 
 ## Summary
 
