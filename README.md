@@ -13,7 +13,11 @@ You will be able to:
 
 There is much more to data science that just selecting, applying and tuning Machine Learning algorithms. A data science project will often include the following stages:
 
-<img src="images/chart.png" width="600">
+
+<img src="images/chart_2.png" width="900">
+
+
+
 
 In the following section, you will go through each of these stages and see what is involved.
 
@@ -31,7 +35,7 @@ Before trying to solve a data related problem, it is important that a data scien
 
 * Which option should be taken? E.g. Recommending new products (such as movies, books or music) to existing customers (Recommendation systems)
 
-<img src="images/domain.png" width="400">
+<img src="images/domain_2.png" width="450">
 
 ## Data Mining
 
