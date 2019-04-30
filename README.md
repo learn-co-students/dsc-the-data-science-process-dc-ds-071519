@@ -36,7 +36,7 @@ Before trying to solve a data related problem, it is important that a data scien
 * Which option should be taken? E.g. Recommending new products (such as movies, books or music) to existing customers (Recommendation systems)
 
 <br>
-<img src="images/image_domain.png" width="350">
+<img src="images/image_domain.png" width="450">
 <br>
 
 ## Data Mining
@@ -52,7 +52,7 @@ Data mining is a process of identifying and collecting data of interest from dif
 * Are there any privacy/ legal issues that I must consider prior to data usage?
 <br>
 <br>
-<img src='images/image_datamining.png' width="550">
+<img src='images/image_datamining.png' width="650">
 <br>
 ## Data Cleaning
 
@@ -101,7 +101,7 @@ After deriving the required results from a statistical model, visualizations are
 
 Data visualization could be thought of as an evolution of visual communication techniques as it deals with the visual representation of data. There are a wide range of different data visualization techniques, from bar graphs, line graphs and scatter plots to alluvial diagrams and spatio-temporal visualizations, each of which will work better for presenting certain types of information.
 
-<img src='images/image_visualization.png' width="600">
+<img src='images/image_visualization.png' width="650">
 
 ## Summary
 
