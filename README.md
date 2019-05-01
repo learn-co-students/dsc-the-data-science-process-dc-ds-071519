@@ -54,6 +54,7 @@ Data mining is a process of identifying and collecting data of interest from dif
 <br>
 <img src='images/image_datamining.png' width="650">
 <br>
+
 ## Data Cleaning
 
 Data cleaning and wrangling is usually the most time-consuming stage within the data science process. This stage may take up to 50-80% of a data scientist's time as there are a vast number of possible problems that make the data "dirty" and unsuitable for analysis. Some of the problems you may see in data are as follows:
