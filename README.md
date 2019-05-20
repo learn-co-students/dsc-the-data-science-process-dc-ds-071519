@@ -68,7 +68,7 @@ Data cleaning and wrangling is usually the most time-consuming stage within the 
 
 The data cleaning stage requires the development of a strategy on how to deal with these issues. Such a strategy may vary substantially between different analysis experiments depending on the nature of problems being solved. 
 
-<img src='images/image_cleaning.png' width="600">
+<img src='images/data_cleaning.png' width="600">
 
 ## Data Exploration
 
