@@ -7,7 +7,7 @@ Just as it's important to understand the kinds of problems that can be solved by
 
 ## Objectives
 You will be able to:
-* Describe the data science process
+* Describe the full data science process
 
 ## The Data Science Process
 
@@ -49,7 +49,7 @@ Data mining is a process of identifying and collecting data of interest from dif
 * Where can I find this data?
 * How can I obtain the data from the data source?
 * How do I sample from this data?
-* Are there any privacy/ legal issues that I must consider prior to using this data?
+* Are there any privacy/legal issues that I must consider prior to using this data?
 <br>
 <br>
 <img src='images/image_datamining.png' width="650">
@@ -72,7 +72,7 @@ This stage requires the development of a careful strategy on how to deal with th
 
 ## Data Exploration
 
-Data exploration or Exploratory Data Analysis helps highlight the patterns and relations in data. Exploratory analysis may involve the following activities:
+Data exploration or Exploratory Data Analysis (EDA) helps highlight the patterns and relations in data. Exploratory analysis may involve the following activities:
 
 * Calculating basic descriptive statistics such as the mean, the median, and the mode
 * Creating a range of plots including histograms, scatter plots, and distribution curves to identify trends in the data
@@ -105,4 +105,4 @@ Data visualization could be thought of as an evolution of visual communication t
 
 ## Summary
 
-In this lesson, we looked at the end to end Data Science process to give a sense of the activities that Data Scientists engaged with.
+In this lesson, we looked at the end-to-end Data Science process to give a sense of the activities that Data Scientists engage with.
