@@ -11,7 +11,7 @@ You will be able to:
 
 ## The Data Science Process
 
-There is much more to data science that just selecting, applying and tuning Machine Learning algorithms. A data science project will often include the following stages:
+There is much more to data science than just selecting, applying and tuning Machine Learning algorithms. A data science project will often include the following stages:
 <br>
 <br>
 
