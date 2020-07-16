@@ -7,7 +7,8 @@ Just as it's important to understand the kinds of problems that can be solved by
 
 ## Objectives
 You will be able to:
-* Describe the full data science process
+
+- Describe the full data science process
 
 ## The Data Science Process
 
